@@ -10,6 +10,7 @@ phases:
       - codebuild-breakpoint
       - npm install -g mocha
       - echo nigel
+      - echo fernandes
   pre_build:
     commands:
       - echo Installing source NPM dependencies...
