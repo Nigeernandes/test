@@ -13,6 +13,8 @@ phases:
       - echo fernandes
       - echo hey
       - echo hi
+      - echo heyyyy
+      - echo nigelfer
   pre_build:
     commands:
       - echo Installing source NPM dependencies...
