@@ -6,9 +6,10 @@ phases:
     runtime-versions:
       nodejs: 13
     commands:
-      - echo Installing Mocha...
+      - echo Installing Mocha...ffe
       - codebuild-breakpoint
       - npm install -g mocha
+      - echo nigel
   pre_build:
     commands:
       - echo Installing source NPM dependencies...
