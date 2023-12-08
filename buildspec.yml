@@ -11,6 +11,7 @@ phases:
       - npm install -g mocha
       - echo nigel
       - echo fernandes
+      - echo hey
   pre_build:
     commands:
       - echo Installing source NPM dependencies...
