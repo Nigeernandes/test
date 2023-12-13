@@ -16,6 +16,7 @@ phases:
       - echo heyyyy
       - echo nigelfernrnfnnfrnsecccc
       - echo 13dec
+      - echo n igel
   pre_build:
     commands:
       - echo Installing source NPM dependencies...
